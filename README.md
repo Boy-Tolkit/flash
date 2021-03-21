@@ -21,3 +21,5 @@ $ ls
 $ python2 crack.c
 ```
 # METODE LOGIN
+- Token
+- Manual
